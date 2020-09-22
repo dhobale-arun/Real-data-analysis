@@ -1,2 +1,2 @@
-# Real-data-analysis
-Working with a real world data-set using SQL and Python
+# Real data analysis
+Worked with a real world data-set (Chicago Public schools) using SQL 
